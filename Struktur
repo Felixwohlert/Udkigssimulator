@@ -1,0 +1,7 @@
+video-phrase-game/
+├── index.html
+└── videos/
+    ├── clip01.mp4
+    ├── clip02.mp4
+    └── clip03.mp4
+└── mascot.png
